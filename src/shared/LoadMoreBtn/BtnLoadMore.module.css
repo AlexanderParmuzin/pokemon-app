@@ -1,0 +1,23 @@
+.loadMore__button {
+  margin-top: 20px;
+  text-align: center;
+  
+}
+
+.loadMore__button button {
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  background-color: rgb(251 211 137);
+  transition: 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.loadMore__button button:hover {
+  background-color: #f79821;
+  cursor: pointer;
+}
